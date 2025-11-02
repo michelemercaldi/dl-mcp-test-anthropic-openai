@@ -1,0 +1,49 @@
+{
+  "1601.05884v1": {
+    "title": "Namioka spaces and strongly Baire spaces",
+    "authors": [
+      "V. V. Mykhaylyuk"
+    ],
+    "summary": "A notion of strongly Baire space is introduced. Its definition is a\ntransfinite development of some equivalent reformulation of the Baire space\ndefinition. It is shown that every strongly Baire space is a Namioka space and\nevery $\\beta-\\sigma$-unfavorable space is a strongly Baire space.",
+    "pdf_url": "http://arxiv.org/pdf/1601.05884v1",
+    "published": "2016-01-22"
+  },
+  "2004.09450v1": {
+    "title": "Admissibly Represented Spaces and Qcb-Spaces",
+    "authors": [
+      "Matthias Schr\u00f6der"
+    ],
+    "summary": "A basic concept of Type Two Theory of Effectivity (TTE) is the notion of an\nadmissibly represented space. Admissibly represented spaces are closely related\nto qcb-spaces. The latter form a well-behaved subclass of topological spaces.\nWe give a survey of basic facts about Type Two Theory of Effectivity,\nadmissibly represented spaces, qcb-spaces and effective qcb-spaces. Moreover,\nwe discuss the relationship of qcb-spaces to other categories relevant to\nComputable Analysis.",
+    "pdf_url": "http://arxiv.org/pdf/2004.09450v1",
+    "published": "2020-04-20"
+  },
+  "1812.07065v1": {
+    "title": "The Fock space as a de Branges-Rovnyak space",
+    "authors": [
+      "Daniel Alpay",
+      "Fabrizio Colombo",
+      "Irene Sabadini"
+    ],
+    "summary": "We show that de Branges-Rovnyak spaces include as special cases a number of\nspaces, such as the Hardy space, the Fock space, the Hardy-Sobolev space and\nthe Dirichlet space. We present a general framework in which all these spaces\ncan be obtained by specializing a sequence that appears in the construction. We\nshow how to exploit this approach to solve interpolation problems in the Fock\nspace.",
+    "pdf_url": "http://arxiv.org/pdf/1812.07065v1",
+    "published": "2018-12-17"
+  },
+  "2503.23592v1": {
+    "title": "Multilinear operators on Hardy spaces associated with ball quasi-Banach function spaces",
+    "authors": [
+      "Jian Tan"
+    ],
+    "summary": "This paper establishes that multilinear Calder\\'on--Zygmund operators and\ntheir maximal operators are bounded on Hardy spaces associated with ball\nquasi-Banach function spaces. Moreover, we also obtain the boundedness of\nmultilinear pseudo-differential operators on local Hardy spaces associated with\nball quasi-Banach function spaces. Since these (local) Hardy type spaces\nencompass a wide range of classical (local) Hardy-type spaces including\nweighted (local) Hardy spaces, variable (local) Hardy space, (local)\nHardy--Morrey space, mixed-norm (local) Hardy space, (local) Hardy--Lorentz\nspace and (local) Hardy--Orlicz spaces, the results presented in this paper are\nhighly general and essentially improve the existing results.",
+    "pdf_url": "http://arxiv.org/pdf/2503.23592v1",
+    "published": "2025-03-30"
+  },
+  "math/0510479v1": {
+    "title": "On Multi-Vector Spaces",
+    "authors": [
+      "Linfan Mao"
+    ],
+    "summary": "A Smarandache multi-space is a union of $n$ spaces $A_1,A_2,..., A_n$ with\nsome additional conditions holding. Combining Smarandache multi-spaces with\nlinear vector spaces in classical linear algebra, the conception of\nmulti-vector spaces is introduced. Some characteristics of a multi-vector space\nare obtained in this paper.",
+    "pdf_url": "http://arxiv.org/pdf/math/0510479v1",
+    "published": "2005-10-22"
+  }
+}

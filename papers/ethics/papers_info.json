@@ -1,0 +1,13 @@
+{
+  "2203.13494v1": {
+    "title": "Big data ethics, machine ethics or information ethics? Navigating the maze of applied ethics in IT",
+    "authors": [
+      "Niina Zuber",
+      "Severin Kacianka",
+      "Jan Gogoll"
+    ],
+    "summary": "Digitalization efforts are rapidly spreading across societies, challenging\nnew and important ethical issues that arise from technological development.\nSoftware developers, designers and managerial decision-makers are ever more\nexpected to consider ethical values and conduct normative evaluations when\nbuilding digital products. Yet, when one looks for guidance in the academic\nliterature one encounters a plethora of branches of applied ethics. Depending\non the context of the system that is to be developed, interesting subfields\nlike big data ethics, machine ethics, information ethics, AI ethics or computer\nethics (to only name a few) may present themselves. In this paper we want to\noffer assistance to any member of a development team by giving a clear and\nbrief introduction into two fields of ethical endeavor (normative ethics and\napplied ethics), describing how they are related to each other and, finally,\nprovide an ordering of the different branches of applied ethics (big data\nethics, machine ethics, information ethics, AI ethics or computer ethics etc.)\nwhich have gained traction over the last years. Finally, we discuss an example\nin the domain of facial recognition software in the domain of medicine to\nillustrate how this process of normative analysis might be conducted.",
+    "pdf_url": "http://arxiv.org/pdf/2203.13494v1",
+    "published": "2022-03-25"
+  }
+}
