@@ -87,7 +87,7 @@ class MCP_ChatBot:
     async def connect_to_server_and_run(self):
         server_params = StdioServerParameters(
             command="uv",
-            args=["run", "L5-mcp_client\\research_server.py"],
+            args=["run", "L5-mcp-client\\research_server.py"],
             env=None,
         )
         async with stdio_client(server_params) as (read, write):

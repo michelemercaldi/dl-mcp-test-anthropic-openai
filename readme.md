@@ -10,6 +10,13 @@ for every lesson I reported the original version for Anthropic
 and the custom version for Azure OpenAI
 
 
+see mcp
+https://github.com/modelcontextprotocol
+
+mcp servers
+https://github.com/modelcontextprotocol/servers
+
+
 
 ------------------------------------
 
@@ -49,15 +56,35 @@ uv venv
 .venv\Scripts\activate
 ```
 
-L4
+### L4
 ```
 uv add mcp arxiv
 npx @modelcontextprotocol/inspector uv run .\L4-mcp_server-with-uv\research_server.py
 ```
 
-L5
+### L5
 ```
 uv add openai python-dotenv nest_asyncio
-uv run L5-mcp_client\mcp_chatbot.py
+uv run L5-mcp-client\mcp_chatbot.py
 ```
 
+### L6
+see mcp servers list  https://github.com/modelcontextprotocol/servers
+    we use fetch server and filesystem server
+```
+uv run .\L6-multi-client-server\mcp_chatbot.py
+```
+sample prompts:
+- list files in current dir
+
+- fetch the website https://fubardevelopment.github.io/WebDavServer/articles/getting-started.html ,  create a visual summary and save it in a summary.md
+
+
+### L7
+```
+uv run .\L7-prompt-resources\mcp_chatbot.py
+```
+- prompts:
+/prompts
+/prompt generate_search_prompt topic=math
+@folders
